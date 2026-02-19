@@ -1,0 +1,1 @@
+print('son 200 euros')

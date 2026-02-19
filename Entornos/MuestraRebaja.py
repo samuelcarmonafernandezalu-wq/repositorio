@@ -1,0 +1,1 @@
+print('venga!!! te rebajo 10 euritos, son 190 euros')
